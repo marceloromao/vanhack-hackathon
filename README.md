@@ -11,4 +11,10 @@ Just put the value of competitor product and drag the sliders to select:
 
 The result of the saving wii show in real time.
 
+## Build
+Download files and open index.html
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/marceloromao/vanhack-hackathon/master/img/screenshot.PNG)
+
 
